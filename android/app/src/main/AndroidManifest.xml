@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="de.tpo.flutter_github_ci">
    <application
-        android:label="flutter_github_ci"
-        android:icon="@mipmap/ic_launcher">
+        android:label="GitHub CI Demo"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
